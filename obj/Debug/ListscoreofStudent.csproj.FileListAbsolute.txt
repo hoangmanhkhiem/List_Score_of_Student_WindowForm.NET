@@ -1,0 +1,10 @@
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\obj\Debug\ListscoreofStudent.csproj.AssemblyReference.cache
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\obj\Debug\ListScoreofStudent.Form1.resources
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\obj\Debug\TH2_Ex1.Properties.Resources.resources
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\obj\Debug\ListscoreofStudent.csproj.GenerateResource.cache
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\obj\Debug\ListscoreofStudent.csproj.CoreCompileInputs.cache
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\obj\Debug\TH2_Ex1.exe
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\obj\Debug\TH2_Ex1.pdb
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\bin\Debug\TH2_Ex1.exe.config
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\bin\Debug\TH2_Ex1.exe
+C:\Users\khiem\Downloads\cs-app\cs-app\TH2_Ex1\bin\Debug\TH2_Ex1.pdb
